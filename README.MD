@@ -1,15 +1,13 @@
 # React Developer Recruitment Task 
 
 ## Description
-Your job is to code an app with posts of users with ability to manage posts and comments. Application must be SPA and use multiple routes (listed below). 
+Your job is to code an app with posts of users with ability to manage posts. Application must be SPA and use multiple routes (listed below). 
 
 ## Tech stack:
-* API: [API DOCS](https://graphqlzero.almansi.me/api) 
-* GQL: [client](https://www.apollographql.com/docs/react/get-started/)
-* Starter: [Create react app starter](https://github.com/facebook/create-react-app) - TS template
-* Routing: [React-router](https://github.com/ReactTraining/react-router)
-* Typescript: [DOCS](https://www.typescriptlang.org/docs/handbook/intro.html)
-
+* API: [GraphQL Dato CMS](https://www.datocms.com/docs/content-delivery-api)
+* Explorer [Query Explorer](https://www.datocms.com/docs/content-delivery-api/query-explorer)
+* React [React Starter Kit](https://github.com/facebook/create-react-app)
+* Javascript ES6
 ## Screens:
 * `Homepage` 
     ![Homepage](img/HomePage.png)
@@ -36,7 +34,6 @@ Your job is to code an app with posts of users with ability to manage posts and 
     * Back button that will go back to `Posts list
 *  `Add Post/Comment Modal`
     ![Add Post Modal](img/AddPostModal.png)
-    ![Add Comment Modal](img/AddCommentModal.png)
     *   Title
     *   Form fields
     *   Two buttons `Cancel`, `Save`
@@ -44,18 +41,17 @@ Your job is to code an app with posts of users with ability to manage posts and 
     *   Save will connect with API and add Comment/Post to the list
 
 ## Must-have:
-1. React + Typescript
-2. Connection with API (GQL)
-3. Usage of react-router for multiple pages
-4. Loaders when you wait for the data (react-skeleton)
-5. Validation on forms
-6. Usage of modern js functionality (ES6+)
+1. React. *You can use any framework react-based like Next.js, Gatsby, Vue or other*
+2. Connection with API
+3. Usage multiple pages
+4. Validation on forms
+5. Usage of modern js functionality (ES6+)
 
 ## Good to have:
 1. Clean code (linters, prettier)
 2. UI kit for styles (or styled-components)
 3. Tests
-4. App deployed to [Netlify](https://www.netlify.com/)
+4. App deployed to [Vercel](https://vercel.com/)
 
 ## What will we be paying attention to:
 1. How you split code for components
