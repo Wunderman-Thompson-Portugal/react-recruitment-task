@@ -32,13 +32,13 @@ Your job is to code an app with posts of users with ability to manage posts. App
     * Button to add comment.
     * Adding comments should be similar to `Add Post Modal` but contain different fields and action.
     * Back button that will go back to `Posts list
-*  `Add Post/Comment Modal`
+*  `Add Post Modal`
     ![Add Post Modal](img/AddPostModal.png)
     *   Title
     *   Form fields
     *   Two buttons `Cancel`, `Save`
     *   Cancel will just close the modal and ignore changes
-    *   Save will connect with API and add Comment/Post to the list
+    *   Save will connect with API and add Post to the list
 
 ## Must-have:
 1. React. *You can use any framework react-based like Next.js, Gatsby, Vue or other*
