@@ -50,7 +50,7 @@ When you have the signup procees done, come back and clone the project clicking 
 
 ### Local setup
 
-Once the setup of the project and repo is done, clone the repo locally.
+Once the setup of the project and repo is done, [clone](https://github.com/facebook/create-react-app) the repo locally.
 
 #### Set up environment variables
 
@@ -66,7 +66,7 @@ In your DatoCMS' project, go to the **Settings** menu at the top and click **API
 ## Good to have:
 1. Clean code (linters, prettier)
 2. UI kit for styles (or styled-components)
-3. Tests
+3. Tests with [Jest](https://jestjs.io/) or [Cypress](https://www.cypress.io/)
 4. App deployed to [Vercel](https://vercel.com/)
 
 ## What will we be paying attention to:
