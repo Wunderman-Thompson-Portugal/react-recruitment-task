@@ -4,7 +4,7 @@
 Your job is to code an app with posts of users with ability to manage posts. Application must be SPA and use multiple routes (listed below). 
 
 ## Tech stack:
-* API: [GraphQL Dato CMS](https://www.datocms.com/docs/content-delivery-api)
+* API: [GraphQL DatoCMS](https://www.datocms.com/docs/content-delivery-api)
 * Explorer [Query Explorer](https://www.datocms.com/docs/content-delivery-api/query-explorer)
 * React [React Starter Kit](https://github.com/facebook/create-react-app)
 * Javascript ES6
@@ -39,6 +39,21 @@ Your job is to code an app with posts of users with ability to manage posts. App
     *   Two buttons `Cancel`, `Save`
     *   Cancel will just close the modal and ignore changes
     *   Save will connect with API and add Post to the list
+
+## Setup the data source:
+You will use [DatoCMS](https://datocms.com) as a Content Manager System and retriver all the data via the [GraphQL](https://www.datocms.com/docs/content-delivery-api) API.
+
+First you have to create a [free account](https://dashboard.datocms.com/signup) on DatoCMS and when you have the signup procees done, come back and clone the project by push this button:
+
+[![Clone DatoCMS project](https://dashboard.datocms.com/clone/button.svg)](https://dashboard.datocms.com/clone?projectId=59088&name=react-recruitment-task)
+
+### Local setup
+
+Once the setup of the project and repo is done, clone the repo locally.
+
+#### Set up environment variables
+
+In your DatoCMS' project, go to the **Settings** menu at the top and click **API tokens**.
 
 ## Must-have:
 1. React. *You can use any framework react-based like Next.js, Gatsby, Vue or other*
