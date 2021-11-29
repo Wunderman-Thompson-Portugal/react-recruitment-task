@@ -41,9 +41,10 @@ Your job is to code an app with posts of users with ability to manage posts. App
     *   Save will connect with API and add Post to the list
 
 ## Setup the data source:
-You will use [DatoCMS](https://datocms.com) as a Content Manager System and retriver all the data via the [GraphQL](https://www.datocms.com/docs/content-delivery-api) API.
+You will use [DatoCMS](https://datocms.com) as a Content Manager System and retriever all the data via [GraphQL](https://www.datocms.com/docs/content-delivery-api) API.
 
-First you have to create a [free account](https://dashboard.datocms.com/signup) on DatoCMS and when you have the signup procees done, come back and clone the project by push this button:
+First you have to do is create a [free account](https://dashboard.datocms.com/signup) on DatoCMS.
+When you have the signup procees done, come back and clone the project clicking on this button:
 
 [![Clone DatoCMS project](https://dashboard.datocms.com/clone/button.svg)](https://dashboard.datocms.com/clone?projectId=59088&name=react-recruitment-task)
 
