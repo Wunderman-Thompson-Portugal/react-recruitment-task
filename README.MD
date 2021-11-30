@@ -29,8 +29,6 @@ Your job is to code an app with posts of users with ability to manage posts. App
     * Button to remove post. 
     * On remove you will have to go back to `User Details` page and remove current post from the list and API.
     * Button/link for comments 'show/hide comments' that will toggle the comments list visibility.
-    * Button to add comment.
-    * Adding comments should be similar to `Add Post Modal` but contain different fields and action.
     * Back button that will go back to `Posts list
 *  `Add Post Modal`
     ![Add Post Modal](img/AddPostModal.png)
